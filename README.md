@@ -1,5 +1,5 @@
 <<<<<<< Updated upstream
 test3, and FQ
 =======
-what?
+what?thefuck?
 >>>>>>> Stashed changes
