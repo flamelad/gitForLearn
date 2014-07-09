@@ -1,5 +1,7 @@
 <<<<<<< Updated upstream
 <<<<<<< HEAD
+<<<<<<< Updated upstream
+<<<<<<< HEAD
 fuck
 ju me
 =======
@@ -8,4 +10,10 @@ what...the...fuck
 
 =======
 fuck1
+>>>>>>> Stashed changes
+=======
+test2
+>>>>>>> 1a0b74b01e6c0d516eb56eee436a00e79c6ba31b
+=======
+test1
 >>>>>>> Stashed changes
