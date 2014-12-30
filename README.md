@@ -8,3 +8,4 @@ testwtf3
 testwtf4
 testwtf5
 testwtf6
+remotetest
